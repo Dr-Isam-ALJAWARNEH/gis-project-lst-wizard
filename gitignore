@@ -1,0 +1,30 @@
+# Python cache
+__pycache__/
+*.pyc
+
+# ArcGIS files to ignore
+*.aprx
+*.gdb
+*.gdb-wal
+*.gdb-shm
+*.sde
+*.lock
+*.mxds
+*.aux
+*.tfw
+*.ovr
+*.xml
+
+# Raster and output files
+*.tif
+*.tif.xml
+*.img
+*.jp2
+
+# Data folders
+Data/
+Output/
+project/
+
+# Logs
+*.log

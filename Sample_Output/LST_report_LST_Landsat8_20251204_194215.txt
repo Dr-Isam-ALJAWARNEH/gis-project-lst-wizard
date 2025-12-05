@@ -1,0 +1,26 @@
+Land Surface Temperature (LST) Report
+==================================================
+
+Generated on: 2025-12-04 19:42:15
+Input LST Raster: C:\Users\USER\Desktop\LST_Tool\Output\Landsat 8\LST_Landsat8
+
+Raster Info
+--------------------------------------------------
+Name: LST_Landsat8
+Spatial Reference: WGS_1984_UTM_Zone_40N
+Rows x Columns: 7841 x 7691
+Cell size (x, y): 30.0 x 30.0
+
+LST Statistics (assumed in °C)
+--------------------------------------------------
+Minimum: 24.6158
+Maximum: 50.0753
+Mean:    32.9560
+Std Dev: 5.9354
+
+(Units depend on how the LST raster was calibrated. If derived from Landsat by this tool, values are in °C.)
+
+
+LLM Interpretation
+--------------------------------------------------
+The Land Surface Temperature (LST) data for this area shows temperatures ranging from about 25°C to 50°C, with an average around 33°C. These values suggest that the region experiences moderately warm conditions overall, but there are some notably hotter spots that could indicate the presence of urban heat islands or areas with less vegetation and more built-up surfaces. The temperature range and average seem realistic for a warm climate zone, and the variation in temperatures highlights differences in land cover or surface materials across the area. This information can be useful for understanding local climate patterns and planning for heat management.
