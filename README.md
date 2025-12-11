@@ -38,8 +38,10 @@ Python Libraries
 | `requests` | Optional | No |
 
 
-📂 Input Requirements (Landsat 7, 8, or 9 Collection 2 Level 1 from USGS)
+📂 Input Requirements (Landsat 7, 8, or 9 Collection 2 Level 1 from USGS) study area of your choice.
 https://earthexplorer.usgs.gov/
+Or you can use data available in the following the link.
+https://drive.google.com/drive/folders/1gAoYpVjcApCFRLJRA9iU8mRX-RfzXPak?usp=sharing
 
 Expected Landsat scene format:
 SCENE_FOLDER/
